@@ -21,11 +21,11 @@ How to write Readme.md file.
     httpd: 
 ```
 
-
-**Bold text**
-_italic text can be written like that_
-
-~~Use it to strike~~
+## Emphasis
+**or double asterisk** or __double under__
+_italic with underscore_ or single asterisks*
+combined emphasis with **asterisks and _underscores_**.
+~~Use it to strike~~ Double ~
 
 ## Tables
 |Name|Email|Address|  
@@ -42,12 +42,14 @@ horz line
 ## Quotation
 >My first quote.
 
+## Listing. 
 1. Item
 2. Item2
    * first
    * second
 * third
 * fourth
+ - or minuses.
 
 ***
 line
