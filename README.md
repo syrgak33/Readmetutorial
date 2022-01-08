@@ -11,7 +11,7 @@ How to write Readme.md file.
 
 [Youtube](https://www.youtube.com "Youtube Home")  #adds popup description
 
-![Penguin](https://www.google.com/url?sa=i&url=https%3A%2F%2Fru.m.wikipedia.org%2Fwiki%2F%25D0%25A4%25D0%25B0%25D0%25B9%25D0%25BB%3AEmperor_Penguin_Manchot_empereur.jpg&psig=AOvVaw0pu-SIbS91N5-8oGAEf5cJ&ust=1638350138169000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMiw0pjgv_QCFQAAAAAdAAAAABAD) #adds an image src.
+![Penguin](https://upload.wikimedia.org/wikipedia/commons/0/07/Emperor_Penguin_Manchot_empereur.jpg) #adds an image src.
 
 
 ## writing in different programming lngs.
